@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Sadia-khurram/Sadia-khurram/blob/main/PNG.png)
 <h1 align="center">Hi 👋, I'm sadia khurram</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=6c09b952umcrnydpb3z54wrm2n3ulypmny900axcknc1iakr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
